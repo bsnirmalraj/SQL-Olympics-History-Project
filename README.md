@@ -4,12 +4,10 @@ Welcome to the Olympic History SQL Project, a comprehensive exploration of 120 y
 
 I, Leveraged SQL queries to extract valuable information, uncover patterns and derive meaningful conclusions from the extensive Olympic dataset.
 
-Highlights:
-Historical Trends: Explore how Olympic participation, medal distribution and sports popularity have evolved over the decades.
+It highlights, historical trends and explores how Olympic participation, medal distribution and sports popularity have evolved over the decades.
 
-Country Performances: Analyse the success stories of different nations in various Olympic disciplines, shedding light on sporting prowess across time.
+Analyzed the success stories of different nations in various Olympic disciplines, shedding light on sporting prowess across time.
 
-Athlete Insights: Uncover statistics and trends related to athletes, including medal counts, participation records and notable achievements.
+Uncovered statistics and trends related to athletes, including medal counts, participation records and notable achievements.
 
-Contribution:
 Contributions are welcome! Whether you're interested in adding new queries, improving visualizations or expanding the dataset. Feel free to fork the project and submit a pull request.
