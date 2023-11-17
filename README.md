@@ -1,4 +1,4 @@
-Olympic History SQL Project
+SQL Project - 120 Years of Olympic History
 
 Welcome to the Olympic History SQL Project, a comprehensive exploration of 120 years of Olympic Games data. This project delves into the rich history of the Olympics, offering insights and analysis through the lens of structured query language (SQL).
 
